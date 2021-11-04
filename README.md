@@ -4,5 +4,5 @@ Software Development and research for novel spectrum /quantum dynamics calculati
 <img src="./design.png" />
 <h3>Example 1: calculate the xray spectrum for molecules</h3>
 <img src="./using-case-2-xray-spectrum.png" />
-<h3>Example 2: calculate the high-harmonic generation for molecules in the string laser field</h3>
+<h3>Example 2: calculate the high-harmonic generation for molecules in the strong laser field</h3>
 <img src="./using-case-1-high-harmonic-generation-spectrum.png" />
